@@ -13,8 +13,8 @@ def main():
 	print(f"Shipping Cost: {shipping_cost} USD")
 				
 ## Calculate shipping cost
-def calculte_cost(weight, rate):
-	return shipping_cost = weight * rate
+def calculte_cost(a, b):
+	return shipping_cost = a * b
 
 
 if __name__ == '__main__':
