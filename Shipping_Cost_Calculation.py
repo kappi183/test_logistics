@@ -13,7 +13,7 @@ def main():
 	print(f"Shipping Cost: {shipping_cost} USD")
 				
 ## Calculate shipping cost
-def calculte_cost(a, b):
+def calculate_cost(a, b):
 	return shipping_cost = a * b
 
 
